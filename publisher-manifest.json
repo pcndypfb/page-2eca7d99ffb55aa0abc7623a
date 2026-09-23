@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "0cf9abfa37ecbb87eb6721bf",
+  "owner": "pcndypfb",
+  "repo": "page-2eca7d99ffb55aa0abc7623a",
+  "title": "昊熙星云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2eca7d99ffb55aa0abc7623a",
+      "a": "昊熙星云",
+      "b": "机场官网线路发布页",
+      "entity": "昊熙星云",
+      "brand": "昊熙星云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "74c80e35233bda7063eb8a16341186282ea283dd76e85ef77490fef697721bdd",
+      "content": {
+        "primary_entity": "昊熙星云",
+        "keyword1": "昊熙星云",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备选择订阅客户端，不同系统的配置方式各有说明。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "先选好套餐，再按客户端文档完成订阅配置，就能开始使用。",
+          "AI_CLOSING_TITLE": "选套餐，配订阅",
+          "AI_DESCRIPTION": "，以多档流量方案与设备数区分，适合按个人、家庭或团队需求挑选。基础版适合轻量使用，旗舰版配 IPLC 专线并支持五台设备，团队版面向多设备协作。",
+          "AI_FAQ_ANSWER_1": "基础版适合日常浏览与轻度流媒体，旗舰版多了 IPLC 专线与更多设备数，团队版则面向多设备高流量场景。",
+          "AI_FAQ_ANSWER_2": "三个套餐分别支持三台、五台和二十台设备同时在线，可先按常用设备数量来选。",
+          "AI_FAQ_ANSWER_3": "旗舰版包含 IPLC 专线游戏加速优化，对延迟较敏感的游戏与实时应用更友好。",
+          "AI_FAQ_ANSWER_4": "按月付费灵活，按年付可省去每月续费操作，长期使用也更容易控制成本。",
+          "AI_FAQ_ANSWER_5": "在客户端中导入订阅地址后拉取节点即可，具体步骤依设备对应的客户端文档操作。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版有什么区别？",
+          "AI_FAQ_QUESTION_2": "不同套餐支持多少台设备？",
+          "AI_FAQ_QUESTION_3": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_QUESTION_4": "按月付和按年付怎么选？",
+          "AI_FAQ_QUESTION_5": "订阅导入后还需要做什么？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "围绕流量、设备数与订阅周期对比，选出匹配日常使用的方案。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 覆盖日常浏览，旗舰版 300GB 适合流媒体，团队版 1000GB 面向多设备。",
+          "AI_FEATURE_TITLE_1": "流量按需匹配",
+          "AI_FEATURE_TEXT_2": "三档套餐分别支持三台、五台和二十台设备同时在线，按常用设备数量挑选即可。",
+          "AI_FEATURE_TITLE_2": "设备数对应档位",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_GUIDE_INTRO": "从选套餐到完成订阅配置，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "使用流程",
+          "AI_HERO_INTRO": "昊熙星云提供基础版、旗舰版与团队版三档方案，按流量和设备数区分，适合个人、家庭到团队的不同使用场景。",
+          "AI_HERO_SUBTITLE": "多档流量，按设备选用",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "团队版支持二十台设备在线",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；按年付分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与同时在线设备数，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_2": "确认所用设备的系统与客户端，查看对应适配要求和配置文档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅地址，拉取节点后即可连接使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "昊熙星云多档套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "onerm.cn",
+    "host": "onerm.cn"
+  },
+  "file_hashes": {
+    "index.html": "66ba069d889261e0e6868002ff95cf627467c45f8dcbace310730d8f07dc63ed",
+    "sitemap.xml": "40416a5595efd25f7cdbee038407feee4326185a4b10610866e45c447f49a9fe",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2407878fcb02562abde1ef82e1ff6e71afc40a552bc3a6aab6bc3a57b3e918f5",
+    "robots.txt": "737b877e4c59acfb2d6691c49517ce584e547bb6988efd51f9175f51a715b45e",
+    "ee1c066b67383185d05bc326482da40b.txt": "70db8587bac490a996690941c26712ff218246b742c6cd54ddf4f362ec9eb070"
+  },
+  "revision": "2f164949a2956d29ab5d65b5cdcc5664966c16da3f7246ec52a01d4aefc4732b"
+}
